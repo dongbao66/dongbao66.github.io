@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Series - 系列 - 阿加西</title>
-        <link>https://dongbao66.github.io/series/</link>
+        <link>https://mdyblog.eu.org/series/</link>
         <description>Series - 系列 - 阿加西</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>dongbao183@gmail.com (阿加西)</managingEditor>
-            <webMaster>dongbao183@gmail.com (阿加西)</webMaster><atom:link href="https://dongbao66.github.io/series/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>dongbao183@gmail.com (阿加西)</webMaster><atom:link href="https://mdyblog.eu.org/series/" rel="self" type="application/rss+xml" /></channel>
 </rss>

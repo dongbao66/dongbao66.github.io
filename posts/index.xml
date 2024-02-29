@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - 阿加西</title>
-        <link>https://dongbao66.github.io/posts/</link>
+        <link>https://mdyblog.eu.org/posts/</link>
         <description>所有文章 | 阿加西</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>dongbao183@gmail.com (阿加西)</managingEditor>
-            <webMaster>dongbao183@gmail.com (阿加西)</webMaster><lastBuildDate>Thu, 29 Feb 2024 18:42:40 &#43;0800</lastBuildDate><atom:link href="https://dongbao66.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dongbao183@gmail.com (阿加西)</webMaster><lastBuildDate>Thu, 29 Feb 2024 18:42:40 &#43;0800</lastBuildDate><atom:link href="https://mdyblog.eu.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Mumble</title>
-    <link>https://dongbao66.github.io/mumble/</link>
+    <link>https://mdyblog.eu.org/mumble/</link>
     <pubDate>Thu, 29 Feb 2024 18:42:40 &#43;0800</pubDate><author>
         <name>阿加西</name>
-    </author><guid>https://dongbao66.github.io/mumble/</guid>
+    </author><guid>https://mdyblog.eu.org/mumble/</guid>
     <description><![CDATA[mumble 教程 1.下载链接 ios下载链接 android下载链接 PC下载链接 2.安装教程 2.1 ios安装 点击 favourite servers，点击右上角 + ； description 输入一个比较]]></description>
 </item></channel>
 </rss>
