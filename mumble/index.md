@@ -15,11 +15,11 @@
 
 ### 2.1 ios安装
 
-![](/mum_ios_1.jpg "")
+![](/images/mum_ios_1.jpg "")
 
 点击 favourite servers，点击右上角 + ；
 
-![](/mum_ios_2.jpg "")
+![](/images/mum_ios_2.jpg "")
 
 description 输入一个比较容易记忆的服务器名称，服务器地址 address 是 mur.mdy520.eu.org，username 起一个昵称
 
