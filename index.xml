@@ -1,10 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>阿加西</title>
-        <link>http://localhost:1313/</link>
+        <link>https://dongbao66.github.io/</link>
         <description>AJiaXi&#39; Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>dongbao183@gmail.com (阿加西)</managingEditor>
             <webMaster>dongbao183@gmail.com (阿加西)</webMaster><lastBuildDate>Thu, 29 Feb 2024 18:42:40 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+            <atom:link href="https://dongbao66.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Mumble</title>
+    <link>https://dongbao66.github.io/mumble/</link>
+    <pubDate>Thu, 29 Feb 2024 18:42:40 &#43;0800</pubDate><author>
+        <name>阿加西</name>
+    </author><guid>https://dongbao66.github.io/mumble/</guid>
+    <description><![CDATA[sdasdasdas]]></description>
+</item></channel>
 </rss>
